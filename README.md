@@ -1,2 +1,2 @@
-# Net-Banking-in-DotNet-LW
-Net Banking in asp.net lightweight project
+# Net Banking in DotNet
+This is a simple and lightweight project on Net Banking in asp.net
